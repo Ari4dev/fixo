@@ -1,0 +1,5 @@
+{
+  "name": "fixora ",
+  "description": "An application that uses AI to convert a regular photo into a professional headshot by allowing users to specify a desired background and outfit via text or a reference image.",
+  "requestFramePermissions": []
+}
